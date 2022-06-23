@@ -1,0 +1,1 @@
+# logstash-output-append-value
